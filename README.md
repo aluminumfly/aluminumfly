@@ -1,4 +1,4 @@
-#### Fullstack developer and privacy enthusiast
+#### Fullstack developer & privacy enthusiast
 _U might find these interesting_  
 
 [![vsum on GitHub](https://img.shields.io/badge/GitHub-vsum-blue?logo=github&style=flat-square)](https://github.com/aluminumfly/vsum)
